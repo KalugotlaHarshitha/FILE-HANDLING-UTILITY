@@ -13,3 +13,6 @@
 *MENTOR* : Neela Santhosh Kumar
 
 ##File handling in programming refers to the process of reading, writing, and manipulating files stored on a computer or server. It allows programs to interact with files, such as text files, images, or databases, for storing and retrieving data. File handling is essential in many applications that involve data persistence, like saving user data, configuration settings, logs, and more.
+
+*OUTPUT* :
+![Image](https://github.com/user-attachments/assets/be47a152-df97-4367-b049-f35730991824)
